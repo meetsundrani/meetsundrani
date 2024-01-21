@@ -11,14 +11,12 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About
 Me
 
-- :credit_card: My full name is **Meet Sundrani** <img
-    src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right" />
+- :credit_card: My full name is **Meet Sundrani**
 - 🏢: I'm currently working with **Civica** as **Software Engineer**
 - :school: I'm a Graduate student from **Gujarat Technological University**
 - :books: My major is **Information Technology**
 - :earth_asia: I'm living now in **India, Vadodara**
 - 😄: I'm have an 1.5 years of experience as **Frontend Developer** & 1.3 years as **Full-stack developer**
-- :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is ***"Strive to build things that make a difference!.Because, Its easy to do something but it's
 a lot tougher to make a difference - Meet"***
 
